@@ -1,6 +1,7 @@
 ---
-title: "First Content"
-date: 2020-08-21T22:12:34+02:00
+title: first
+weight: 10
+disableToc: true
 ---
 
 
@@ -10,10 +11,10 @@ date: 2020-08-21T22:12:34+02:00
 
 Ho inserito un'immagine di prova in cartella
 
-![immagine](images/logoYTsfondo.png)
+![immagine](/it/content/01.basics/01.first/images/logoYTsfondo.png)
 
 Ho inserito un'immagine di prova FUORI cartella
 
-![immagine](logoYTsfondo.png)
+![immagine](/it/content/01.basics/01.first/logoYTsfondo.png)
 
 aluraaa

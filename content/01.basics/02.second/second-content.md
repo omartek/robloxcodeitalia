@@ -1,6 +1,7 @@
 ---
-title: "Second Content"
-date: 2020-08-21T22:13:59+02:00
+title: first
+weight: 10
+disableToc: true
 ---
 
 # Questa è una immagine
@@ -9,4 +10,4 @@ date: 2020-08-21T22:13:59+02:00
 
 Ho inserito un'immagine di prova
 
-![immagine](images/logoYTsfondo.png)
+![immagine](/it/content/01.basics/02.second/images/logoYTsfondo.png)
