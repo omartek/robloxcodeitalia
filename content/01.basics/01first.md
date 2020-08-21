@@ -11,4 +11,4 @@ disableToc: true
 
 Ho inserito un'immagine di prova in cartella
 
-![immagine](./01first/logoYTsfondo.png)
+![immagine](./logoYTsfondo.png)
