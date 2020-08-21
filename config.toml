@@ -5,7 +5,7 @@ defaultContentLanguage = "it"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
-themesdir = "../.."
+themesdir = "./themes"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
