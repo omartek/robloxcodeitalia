@@ -9,4 +9,4 @@ date: 2020-08-21T22:13:59+02:00
 
 Ho inserito un'immagine di prova
 
-![immagine](images/logoYT-sfondo.png)
+![immagine](images/logoYTsfondo.png)
