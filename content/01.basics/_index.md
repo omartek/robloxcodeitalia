@@ -6,8 +6,8 @@ chapter = true
 pre = "<b>X. </b>"
 +++
 
-### Chapter X
+### Capitolo 1
 
-# Some Chapter title
+# Le basi
 
 Lorem Ipsum.
