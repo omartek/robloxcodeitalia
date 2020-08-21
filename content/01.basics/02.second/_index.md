@@ -1,5 +1,5 @@
 ---
-title: first
+title: second
 weight: 20
 disableToc: true
 ---
@@ -10,4 +10,4 @@ disableToc: true
 
 Ho inserito un'immagine di prova
 
-![immagine](/it/content/01.basics/02.second/images/logoYTsfondo.png)
+![immagine](/en/content/01.basics/02.second/images/logoYTsfondo.png)
