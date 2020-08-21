@@ -15,6 +15,6 @@ Ho inserito un'immagine di prova in cartella
 
 Ho inserito un'immagine di prova FUORI cartella
 
-![immagine](/it/content/01.basics/01.first/logoYTsfondo.png)
+![immagine](/content/01.basics/01.first/logoYTsfondo.png)
 
 aluraaa

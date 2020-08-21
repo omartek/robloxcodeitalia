@@ -10,4 +10,4 @@ disableToc: true
 
 Ho inserito un'immagine di prova
 
-![immagine](/content/01.basics/02.second/images/logoYTsfondo.png)
+![immagine](./content/01.basics/02.second/images/logoYTsfondo.png)
