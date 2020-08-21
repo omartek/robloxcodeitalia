@@ -11,10 +11,10 @@ disableToc: true
 
 Ho inserito un'immagine di prova in cartella
 
-![immagine](/en/content/01.basics/01.first/images/logoYTsfondo.png)
+![immagine](/content/01.basics/01.first/images/logoYTsfondo.png)
 
 Ho inserito un'immagine di prova FUORI cartella
 
-![immagine](/en/content/01.basics/01.first/logoYTsfondo.png)
+![immagine](/content/01.basics/01.first/logoYTsfondo.png)
 
 aluraaa
