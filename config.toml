@@ -1,9 +1,21 @@
 baseURL = "https://robloxcodeitalia.netlify.app/"
-languageCode = "it-it"
+languageCode = "it-IT"
 title = "Roblox code Italia"
+defaultContentLanguage = "it"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  # editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Roblox tutorial"
+  author = "Robloxcodeitalia"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
 
 # For search functionality
 [outputs]
