@@ -4,26 +4,32 @@ weight: 10
 disableToc: true
 ---
 
-## Introduzione al progetto e configurazione dei file
+## **Introduzione al progetto e configurazione dei file**
 
 ![intro](./ObbyProjectIntro_hero.jpg)
 
-In un obby, abbreviazione di percorso a ostacoli, i giocatori saltano da un oggetto all'altro evitando gli ostacoli per arrivare alla fine di un livello.
+In un **obby**, abbreviazione di **percorso a ostacoli**, i giocatori saltano da un oggetto all'altro evitando gli ostacoli per arrivare alla fine di un livello.
 
-Prima di progettare il tuo, c'è un modello di esempio che puoi provare. I modelli sono progetti predefiniti che puoi utilizzare come inizio per i tuoi giochi.
+Prima di progettare il tuo, c'è un modello di esempio che puoi provare. I **modelli** sono progetti predefiniti che puoi utilizzare come inizio per i tuoi giochi.
 
-### Apri il modello
+{{% notice note %}}
+Chiedi se qualcuno ha mai giocato a un obby oa un gioco platform in precedenza (Super Mario, Kirby, Sonic, ecc.). In tal caso, chiedi allo studente di descrivere brevemente il gioco in 1 - 2 frasi e di dire cosa trova divertente al riguardo (salti impegnativi, varietà di ostacoli, ecc.).
+{{% /notice %}}
 
-1. Apri Roblox Studio .
-1. Nell'angolo in alto a sinistra, fai clic su Nuovo .
-1. Scorri fino a visualizzare il modello denominato Obby .
+
+### **Apri il modello**
+
+1. Apri **Roblox Studio** .
+1. Nell'angolo in alto a sinistra, fai clic su **Nuovo** .
+1. Scorri fino a visualizzare il modello denominato **Obby** .
 1. Fare clic sul modello per aprirlo.
 
 ![Obby template](./ObbyTemplate_480x320.png)
 
-### Chiudi le finestre inutili
+### **Chiudi le finestre inutili**
 
-1. Quando apri per la prima volta Studio, saranno aperte alcune finestre che non ti servono. Chiudili in modo da avere più spazio per lavorare sul tuo gioco.
+Quando apri per la prima volta Studio, saranno aperte alcune finestre che non ti servono. Chiudile in modo da avere più spazio per lavorare sul tuo gioco.
+1. Chiudi la **casella degli strumenti** facendo clic sulla × in quella finestra.
 ![Chiudi le finestre](./obby_closeToolbox.png)
 1. Chiudi la finestra Tutorial.
 ![Chiudi il tutorial](./obby_closeTutorial.png)
@@ -59,8 +65,7 @@ Ogni volta che stai lavorando a un gioco, salva ogni 10 minuti . In questo modo,
 ![pubblica](./publish_clickCreate.png)
 
 {{% notice tip %}}
-Studio salverà un backup temporaneo del tuo lavoro ogni tanto. Se per qualche motivo non riesci a trovare il tuo file, vai a:
-
+Studio salverà un backup temporaneo del tuo lavoro ogni tanto. Se per qualche motivo non riesci a trovare il tuo file, vai a:  
 1. File> Avanzate> Recenti
 1. Apri il file e salvalo di nuovo in un posto dove potrai trovarlo.
 {{% /notice %}}
