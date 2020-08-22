@@ -66,6 +66,6 @@ Ogni volta che stai lavorando a un gioco, salva ogni 10 minuti . In questo modo,
 
 {{% notice tip %}}
 Studio salverà un backup temporaneo del tuo lavoro ogni tanto. Se per qualche motivo non riesci a trovare il tuo file, vai a:  
-1. File> Avanzate> Recenti
-1. Apri il file e salvalo di nuovo in un posto dove potrai trovarlo.
+1. File> Avanzate> Recenti  
+2. Apri il file e salvalo di nuovo in un posto dove potrai trovarlo.
 {{% /notice %}}
