@@ -1,7 +1,6 @@
 ---
 title: Parti e piattaforme
 weight: 20
-disableToc: "false"
 ---
 
 
