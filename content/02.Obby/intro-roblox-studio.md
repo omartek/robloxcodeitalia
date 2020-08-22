@@ -1,7 +1,6 @@
 ---
 title: Introduzione a Roblox Studio
 weight: 10
-disableToc: true
 ---
 
 ## **Introduzione al progetto e configurazione dei file**
