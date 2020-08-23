@@ -19,13 +19,11 @@ Una parte apparirà al centro esatto della vista della videocamera. Se desideri 
 ![mostra parte creata](obby_partCreatedShown.png)
 
 {{% notice tip %}}
-Utilizzo di parti diverse
-
-È possibile aggiungere diverse forme di parti. Per aggiungere una parte diversa, fare clic sulla piccola freccia sotto Parte e selezionare un nuovo tipo dal menu a discesa.
-
+**Utilizzo di parti diverse**  
+È possibile aggiungere diverse forme di parti. Per aggiungere una parte diversa, fare clic sulla piccola freccia sotto Parte e selezionare un nuovo tipo dal menu a discesa.  
 ![scelta parti](obby_showPartOptions.png)
-
 {{% /notice %}}
+
 ### Spostare le parti
 
 1. Fare clic sulla parte.
@@ -61,10 +59,8 @@ Per facilitare lo spostamento delle parti, si consiglia di disattivare lo snap p
 Disattiva lo snap **deselezionando** la casella accanto a **Ruota** o **Sposta** .
 
 {{% notice tip %}}
-Modifica dell'importo dello snap
-
-Se desideri lo snap, puoi modificare le impostazioni nella scheda Modello . Basta inserire numeri diversi per Ruota o Sposta (o fare clic sulle piccole frecce all'interno dei campi). Durante lo spostamento, le parti vengono spostate in perni, l'unità di misura di base in Roblox.
-
+**Modifica dell'importo dello snap**  
+Se desideri lo snap, puoi modificare le impostazioni nella scheda Modello . Basta inserire numeri diversi per Ruota o Sposta (o fare clic sulle piccole frecce all'interno dei campi). Durante lo spostamento, le parti vengono spostate in perni, l'unità di misura di base in Roblox.  
 ![valori snap](obby_highlightSnapAmount.png)
 {{% /notice %}}
 
@@ -120,7 +116,7 @@ Questo è l'inizio del tuo gioco, quindi non vuoi che i salti siano molto diffic
 Aggiungi altre due parti al tuo gioco.
 Salva e prova.
 
-{{% notice nore %}}
+{{% notice note %}}
 Ricordati di Anchor
 {{% /notice %}}
 
