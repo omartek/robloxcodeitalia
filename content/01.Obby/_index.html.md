@@ -3,11 +3,10 @@ title = "Obby"
 date = 2020-08-22T14:10:46+02:00
 weight = 10
 chapter = true
-pre = "<b>2. </b>"
+pre = "<b>1. </b>"
 +++
 
 ### Capitolo 1
 
-# Obby
+# Obby - la corsa ad ostacoli
 
-Lorem Ipsum.

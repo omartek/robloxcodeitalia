@@ -3,9 +3,9 @@ title: Intro e configurazione file
 weight: 10
 ---
 
-## **Introduzione al progetto e configurazione dei file**
-
 ![intro](ObbyProjectIntro_hero.jpg)
+
+## **Introduzione al progetto e configurazione dei file**
 
 In un **obby**, abbreviazione di **percorso a ostacoli**, i giocatori saltano da un oggetto all'altro evitando gli ostacoli per arrivare alla fine di un livello.
 

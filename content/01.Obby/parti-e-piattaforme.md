@@ -4,9 +4,10 @@ weight: 20
 tags: ["modellare"] 
 ---
 
+![intro](IntroToStudio_heroPartsandPlatforms.jpg)
 
 ## Parti e piattaforme
-![intro](IntroToStudio_heroPartsandPlatforms.jpg)
+
 **Le parti** sono gli elementi costitutivi del tuo gioco. Puoi usarli per creare ambienti e modelli per il tuo gioco.
 
 ### Aggiunta di parti
