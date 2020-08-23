@@ -1,5 +1,6 @@
 ---
 title: Parti e piattaforme
+hidden : true
 weight: 20
 ---
 
