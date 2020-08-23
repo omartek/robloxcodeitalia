@@ -1,6 +1,5 @@
-<a id="logo" href="{{ .Site.BaseURL }}">
-  
-  <svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -51,5 +50,3 @@
        style="fill:none;fill-opacity:1;stroke:#130ed2;stroke-width:0.21007653;stroke-opacity:1" />
   </g>
 </svg>
-
-</a>
