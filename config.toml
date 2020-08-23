@@ -17,16 +17,11 @@ defaultContentLanguageInSubdir= true
   disableBreadcrumb = false
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "red"
+  themeVariant = "blue"
 
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-tags'></i> Tags"
-url = "/tags"
-weight = 30
 
 [[menu.shortcuts]] 
 name = "<i class='fab fa-github'></i> Github repo"
@@ -36,6 +31,11 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Credits"
-identifier = "ds"
+identifier = "credit"
 url = "https://corp.roblox.com/education/"
 weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 30
