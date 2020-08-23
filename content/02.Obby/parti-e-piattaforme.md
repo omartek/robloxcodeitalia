@@ -117,8 +117,8 @@ Questo è l'inizio del tuo gioco, quindi non vuoi che i salti siano molto diffic
 Aggiungi altre due parti al tuo gioco.
 Salva e prova.
 
-{{% notice note %}}
-Ricordati di Anchor
+{{% notice warning %}}
+Ricordati di ancorare la parte con **Anchor**
 {{% /notice %}}
 
 Se una qualsiasi delle tue parti cade, assicurati di ancorarla .

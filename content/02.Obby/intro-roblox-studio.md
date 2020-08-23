@@ -1,5 +1,5 @@
 ---
-title: Intro progetto e configurazione file
+title: Intro e configurazione file
 weight: 10
 ---
 
