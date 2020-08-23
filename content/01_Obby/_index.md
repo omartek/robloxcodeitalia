@@ -11,4 +11,3 @@ pre = "<b>1. </b>"
 # Obby
 
 Realizzare una corsa ad ostacoli in Roblox.
-
