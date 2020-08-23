@@ -8,5 +8,7 @@ pre = "<b>1. </b>"
 
 ### Capitolo 1
 
-# Obby - la corsa ad ostacoli
+# Obby
+
+Realizzare una corsa ad ostacoli in Roblox.
 
