@@ -1,6 +1,5 @@
 ---
 title: Intro progetto e configurazione file
-hidden : true
 weight: 10
 ---
 
