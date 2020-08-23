@@ -3,7 +3,7 @@ title: Nozioni base Roblox Studio
 weight: 15
 ---
 
-Nozioni di base di Roblox Studio
+## Nozioni di base di Roblox Studio
 
 Se inizi a costruire il tuo obby sopra la piastra di base grigia, il tuo giocatore cadrà in modo innocuo sulla piastra di base invece di morire quando perde il salto. Questo non dà esattamente al tuo giocatore la sfida che vuoi che abbia. Per rimuovere la piastra di base, dovrai utilizzare la finestra di Explorer .
 
