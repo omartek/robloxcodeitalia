@@ -122,7 +122,7 @@ Puoi aggiungere molte posizioni di spawn, ma assicurati di:
 
 {{% notice tip %}}
 Il giocatore non viene generato correttamente?
-Controlla per assicurarti che tutte le seguenti condizioni siano vere:
+Controlla per assicurarti che tutte le seguenti condizioni siano vere:  
 * Solo il primo team è impostato su AutoAssign.
 * SpawnLocation è contrassegnato come neutro.
 * Il colore corrisponde a SpawnLocation TeamColor e all'oggetto Team TeamColor.
