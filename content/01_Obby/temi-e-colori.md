@@ -67,7 +67,7 @@ Per duplicare una parte:
 {{% notice tip %}}
 Lavora più velocemente con i tasti di scelta rapida  
 I tasti di scelta rapida sono speciali combinazioni di tasti della tastiera che puoi utilizzare invece di scorrere i menu. Il tasto di scelta rapida di seguito viene utilizzato per duplicare le parti.  
-Windows: `Ctrl`+`D` 
+Windows: `Ctrl`+`D`  
 Mac: `⌘`+`D`
 {{% /notice %}}
 
