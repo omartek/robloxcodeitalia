@@ -1,6 +1,7 @@
 ---
 title: Intro e configurazione file
 weight: 10
+tags: ["nozioni base"] 
 ---
 
 ![intro](ObbyProjectIntro_hero.jpg)

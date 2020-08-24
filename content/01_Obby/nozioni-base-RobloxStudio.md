@@ -1,6 +1,7 @@
 ---
 title: Nozioni base Roblox Studio
 weight: 15
+tags: ["nozioni base"] 
 ---
 
 ## Nozioni di base di Roblox Studio
@@ -51,9 +52,9 @@ Ora che hai un oggetto nel tuo gioco, fai clic nella vista 3D e sposta la teleca
 
 ### Controlli della fotocamera
 
-![pulsanti utente](nozioni-base-RobloxStudio.md)
+![pulsanti utente](tasti_utente.png)
 
-{{% notice info %}}
+{{% notice tip %}}
 La fotocamera non si muove?  
 Per spostare la visuale, fai clic all'interno della finestra del gioco, quindi prova a premere nuovamente uno dei tasti di movimento.
 {{% /notice %}}
