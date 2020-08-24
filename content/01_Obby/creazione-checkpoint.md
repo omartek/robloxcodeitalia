@@ -78,9 +78,9 @@ Affinché una squadra e un SpawnLocation corrispondano, il **Team Color** e **Sp
 1. Metti alla prova il tuo gioco.
 
 {{% notice tip %}}
-SpawnLocation non funziona? »
-Se SpawnLocation non funziona, controlla quanto segue:
-
+SpawnLocation non funziona?
+Se SpawnLocation non funziona, controlla quanto segue:  
+  
 * Assicurati di sostituire il TeamColor, non il BrickColor di SpawnLocation.
 * Controlla che i colori corrispondano esattamente.
 {{% /notice %}}
