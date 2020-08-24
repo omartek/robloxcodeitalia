@@ -106,9 +106,9 @@ Per ruotare una parte:
 ![scala e ruota](ScaleRotate_480x320_reduced.gif)
 
 {{% notice tip %}}
-Suggerimenti per lo spostamento di parti
-* Se la parte viene ridimensionata o ruotata gradualmente, potrebbe essere necessario regolare o disattivare lo snap .
-* Se alla parte viene bloccato il movimento o la rotazione in un'altra parte, disattivare le collisioni potrebbe semplificare le cose.
+Suggerimenti per lo spostamento di parti  
+- Se la parte viene ridimensionata o ruotata gradualmente, potrebbe essere necessario regolare o disattivare lo snap.  
+- Se alla parte viene bloccato il movimento o la rotazione in un'altra parte, disattivare le collisioni potrebbe semplificare le cose.
 {{% /notice %}}
 
 #### Aggiungi un altro salto

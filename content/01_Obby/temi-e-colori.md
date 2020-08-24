@@ -29,9 +29,9 @@ Ad esempio, un tema spaziale può avere:
 {{% notice tip %}}
 Ecco come trovare delle idee  
 Se non sei ispirato, prova ad aiutarti con questi suggerimenti:  
-* Un luogo sulla Terra o un periodo di tempo che vorresti visitare.
-* Il tuo libro, film o programma TV preferito.
-* Qualcosa che ti piace fare (come sport, musica, ecc.).
+- Un luogo sulla Terra o un periodo di tempo che vorresti visitare.  
+- Il tuo libro, film o programma TV preferito.  
+- Qualcosa che ti piace fare (come sport, musica, ecc.).
 {{% /notice %}}
 
 ## Modifica del colore e del materiale di una parte
