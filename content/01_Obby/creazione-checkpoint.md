@@ -79,7 +79,8 @@ Affinché una squadra e un SpawnLocation corrispondano, il **Team Color** e **Sp
 
 {{% notice tip %}}
 SpawnLocation non funziona? »
-Se SpawnLocation non funziona, controlla quanto segue:  
+Se SpawnLocation non funziona, controlla quanto segue:
+
 * Assicurati di sostituire il TeamColor, non il BrickColor di SpawnLocation.
 * Controlla che i colori corrispondano esattamente.
 {{% /notice %}}
@@ -122,7 +123,8 @@ Puoi aggiungere molte posizioni di spawn, ma assicurati di:
 
 {{% notice tip %}}
 Il giocatore non viene generato correttamente?
-Controlla per assicurarti che tutte le seguenti condizioni siano vere:  
+Controlla per assicurarti che tutte le seguenti condizioni siano vere:
+
 * Solo il primo team è impostato su AutoAssign.
 * SpawnLocation è contrassegnato come neutro.
 * Il colore corrisponde a SpawnLocation TeamColor e all'oggetto Team TeamColor.
