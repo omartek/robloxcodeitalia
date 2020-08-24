@@ -80,7 +80,7 @@ Affinché una squadra e un SpawnLocation corrispondano, il **Team Color** e **Sp
 {{% notice tip %}}
 SpawnLocation non funziona?
 Se SpawnLocation non funziona, controlla quanto segue:  
-  
+:  
 * Assicurati di sostituire il TeamColor, non il BrickColor di SpawnLocation.
 * Controlla che i colori corrispondano esattamente.
 {{% /notice %}}
