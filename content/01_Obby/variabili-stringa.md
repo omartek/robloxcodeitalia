@@ -34,7 +34,7 @@ Invece di dire `Hello World`, crea il tuo messaggio modificando la stringa nella
 ![aggiungi script](ServerScriptServiceAddScript_2A_280x310.png)
 1. Nell'editor degli script, sostituisci `"Hello World"` con una stringa che includa il tuo animale preferito.
 
->> `print ( "I porcospini sono i miei animali preferiti." )`
+> `print ( "I porcospini sono i miei animali preferiti." )`
 
 ## Test di output
 
@@ -85,5 +85,3 @@ I messaggi di errore vengono visualizzati come linee rosse sia nell'editor di sc
 |Esempio di codice|Uscita prevista|
 |-----------------|---------------|
 |`print("this code doesn't work)`|11:20:03.840 - ServerScriptService.Script:1: Expected identifier when parsing expression, got malformed string|
-
-
