@@ -42,14 +42,18 @@ Dovresti sempre iniziare nuovi script con un commento su ciò che fa lo script. 
 
 ### Individua la parte
 
-Per apportare modifiche a qualsiasi parte utilizzando il codice, lo script deve prima sapere con quale parte lavorare. Usa Explorer per trovare la posizione della parte. In questo caso, PracticePart si trova in Workspace.
+Per apportare modifiche a qualsiasi parte utilizzando il codice, lo script deve prima sapere con quale parte lavorare. Usa **Explorer** per trovare la posizione della parte. In questo caso, *PracticePart* si trova in Workspace.
 
-Ora che sai che PracticePart si trova in Area di lavoro, trasforma queste informazioni in codice comprensibile dal programma.
+![figlio workspace](WorkspaceChildren_480x320.png)
 
-Digita gamequi sotto il tuo commento.
+Ora che sai che *PracticePart* si trova in Area di lavoro, trasforma queste informazioni in codice comprensibile dal programma.
 
-- Cambia il colore di PracticePart
+Digita `game` qui sotto il tuo commento.
+
+```lua
+-- Cambia il colore di > PracticePart
 gioco
+```
 
 Usa i punti per separare le parole. Sulla stessa riga, digitare .seguito da Workspace, la posizione della parte.
 
