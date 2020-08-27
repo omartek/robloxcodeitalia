@@ -34,7 +34,7 @@ Invece di dire `Hello World`, crea il tuo messaggio modificando la stringa nella
 ![aggiungi script](ServerScriptServiceAddScript_2A_280x310.png)
 1. Nell'editor degli script, sostituisci `"Hello World"` con una stringa che includa il tuo animale preferito.
 
-> `print ( "I porcospini sono i miei animali preferiti." )`
+> `print ("I porcospini sono i miei animali preferiti.")`
 
 ## Test di output
 
