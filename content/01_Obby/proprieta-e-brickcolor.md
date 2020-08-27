@@ -84,7 +84,7 @@ Assicurati che il tuo codice sia esattamente come il codice sopra e che *Practic
 
 ## Modifica di una proprietà con il codice
 
-Quasi lì! Ora cambierai il colore della parte con la BrickColorproprietà.
+Ci siamo quasi! Ora cambierai il colore della parte con la BrickColorproprietà.
 
 * Digitare `.BrickColordopo` dopo il nome della vostra parte.
 
@@ -129,9 +129,9 @@ game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1)
 
 {{% notice note %}}
 Suggerimenti per la risoluzione dei problemi  
-<strong>Problema:</strong> la parte è ancora grigia o non cambia colore come previsto
-* Assicurati di aver seguito tutte e tre le regole per i valori RGB (il numero è 0-1, è un decimale, tutti i numeri separati da virgole).
-* Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa.  
+<strong>Problema:</strong> la parte è ancora grigia o non cambia colore come previsto  
+* Assicurati di aver seguito tutte e tre le regole per i valori RGB (il numero è 0-1, è un decimale, tutti i numeri separati da virgole).  
+* Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa. 
 <strong>Suggerimenti generali</strong>
 * Verifica che le lettere maiuscole e minuscole e l'ortografia siano le stesse dell'esempio di codice. Brickcolornon funzionerà, mentre BrickColorfunzionerà.
 {{% /notice %}}
