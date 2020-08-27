@@ -37,7 +37,7 @@ Lo script utilizzerà il codice per cambiare il colore di una parte all'inizio d
 
 Dovresti sempre iniziare nuovi script con un commento su ciò che fa lo script. I **commenti** sono righe speciali che aiutano i programmatori a ricordare a cosa servono gli script ma che non vengono eseguiti.
 
-1. Scrivi `--` e una nota su cosa fa questo script. Il testo dovrebbe diventare verde per farti sapere che è un commento.
+* Scrivi `--` e una nota su cosa fa questo script. Il testo dovrebbe diventare verde per farti sapere che è un commento.
 
 ```lua
 -- Cambia il colore di PracticePart
@@ -51,25 +51,32 @@ Per apportare modifiche a qualsiasi parte utilizzando il codice, lo script deve 
 
 Ora che sai che *PracticePart* si trova in Area di lavoro, trasforma queste informazioni in codice comprensibile dal programma.
 
-1. Digita `game` qui sotto il tuo commento.
+* Digita `game` qui sotto il tuo commento.
+
 ```lua
 -- Cambia il colore di > PracticePart
 game
 ```
-1. Usa i punti per separare le parole. Sulla stessa riga, digitare `.` seguito da `Workspace`, la posizione della parte.
+
+* Usa i punti per separare le parole. Sulla stessa riga, digitare `.` seguito da `Workspace`, la posizione della parte.
+
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace
 ```
+
 {{% notice tip %}}
 Utilizzo del completamento automatico
 Roblox completerà automaticamente le parole durante la digitazione per accelerare il processo di codifica. Quando vengono visualizzate le parole, puoi utilizzare i tasti freccia per spostarti verso il basso nell'elenco. Scegli un'opzione premendo `Enter`.
 {{% /notice %}}
-3. Completa la riga con il nome della parte come nell'esempio sotto.
+
+* Completa la riga con il nome della parte come nell'esempio sotto.
+
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart
 ```
+
 {{% notice note %}}
 Controlla il tuo codice prima di proseguire
 Assicurati che il tuo codice sia esattamente come il codice sopra e che *PracticePart* sia scritto e in maiuscolo esattamente come in Explorer.
@@ -79,7 +86,8 @@ Assicurati che il tuo codice sia esattamente come il codice sopra e che *Practic
 
 Quasi lì! Ora cambierai il colore della parte con la BrickColorproprietà.
 
-1. Digitare `.BrickColordopo` dopo il nome della vostra parte.
+* Digitare `.BrickColordopo` dopo il nome della vostra parte.
+
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor
@@ -102,30 +110,28 @@ Di seguito sono riportati alcuni esempi di valori RGB:
 
 Ora utilizzerai il segno `=` per impostare un nuovo colore e sostituire il colore originale della parte. Puoi usare i numeri decimali per i colori nella tabella sopra o crearne uno tuo.
 
-1. Dopo `game.Workspace.PracticePart.BrickColor`: digitare `= BrickColor.new()`
+* Dopo `game.Workspace.PracticePart.BrickColor`: digitare `= BrickColor.new()`
 
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1) 
 ```
-1. All'interno delle parentesi, aggiungi 3 numeri decimali (compresi tra 0 e 1), separati da virgole. Ricorda, questo è il valore del colore RGB della tua parte.
+
+* All'interno delle parentesi, aggiungi 3 numeri decimali (compresi tra 0 e 1), separati da virgole. Ricorda, questo è il valore del colore RGB della tua parte.
 
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1) 
 ```
-1. Premi **Play** per verificare che la tua parte cambi colore.
+
+* Premi **Play** per verificare che la tua parte cambi colore.
 ![cambia colore gif](cambia-colore.gif)
 
 {{% notice note %}}
 <strong>Suggerimenti</strong> per la risoluzione dei problemi  
 Problema: la parte è ancora grigia o non cambia colore come previsto  
-<ul>
-<li>Assicurati di aver seguito tutte e tre le regole per i valori RGB (il numero è 0-1, è un decimale, tutti i numeri separati da virgole).</li>
-<li>Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa.</li>
-</ul>
+<ul><li>Assicurati di aver seguito tutte e tre le regole per i valori RGB (il numero è 0-1, è un decimale, tutti i numeri separati da virgole).</li>
+<li>Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa.</li></ul>
 <strong>Suggerimenti generali</strong>
-<ul>
-<li>Verifica che le lettere maiuscole e minuscole e l'ortografia siano le stesse dell'esempio di codice. Brickcolornon funzionerà, mentre BrickColorfunzionerà.</li>
-</ul>
+<ul><li>Verifica che le lettere maiuscole e minuscole e l'ortografia siano le stesse dell'esempio di codice. Brickcolornon funzionerà, mentre BrickColorfunzionerà.</li></ul>
 {{% /notice %}}
