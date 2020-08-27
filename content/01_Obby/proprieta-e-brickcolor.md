@@ -102,12 +102,14 @@ Di seguito sono riportati alcuni esempi di valori RGB:
 
 Ora utilizzerai il segno `=` per impostare un nuovo colore e sostituire il colore originale della parte. Puoi usare i numeri decimali per i colori nella tabella sopra o crearne uno tuo.
 
-1. Dopo `game.Workspace.PracticePart.BrickColor`: digitare `= BrickColor.new()`  
+1. Dopo `game.Workspace.PracticePart.BrickColor`: digitare `= BrickColor.new()`
+
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1) 
 ```
-1. All'interno delle parentesi, aggiungi 3 numeri decimali (compresi tra 0 e 1), separati da virgole. Ricorda, questo è il valore del colore RGB della tua parte.  
+1. All'interno delle parentesi, aggiungi 3 numeri decimali (compresi tra 0 e 1), separati da virgole. Ricorda, questo è il valore del colore RGB della tua parte.
+
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1) 
