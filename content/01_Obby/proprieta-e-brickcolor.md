@@ -131,7 +131,7 @@ game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1)
 Suggerimenti per la risoluzione dei problemi  
 <strong>Problema:</strong> la parte è ancora grigia o non cambia colore come previsto  
 * Assicurati di aver seguito tutte e tre le regole per i valori RGB (il numero è 0-1, è un decimale, tutti i numeri separati da virgole).  
-* Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa. 
-<strong>Suggerimenti generali</strong>
+* Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa.  
+<strong>Suggerimenti generali</strong>  
 * Verifica che le lettere maiuscole e minuscole e l'ortografia siano le stesse dell'esempio di codice. Brickcolornon funzionerà, mentre BrickColorfunzionerà.
 {{% /notice %}}
