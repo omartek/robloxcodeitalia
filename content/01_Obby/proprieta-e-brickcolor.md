@@ -102,12 +102,12 @@ Di seguito sono riportati alcuni esempi di valori RGB:
 
 Ora utilizzerai il segno `=` per impostare un nuovo colore e sostituire il colore originale della parte. Puoi usare i numeri decimali per i colori nella tabella sopra o crearne uno tuo.
 
-1. Dopo `game.Workspace.PracticePart.BrickColor`: digitare `= BrickColor.new()`
+1. Dopo `game.Workspace.PracticePart.BrickColor`: digitare `= BrickColor.new()`  
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1) 
 ```
-1. All'interno delle parentesi, aggiungi 3 numeri decimali (compresi tra 0 e 1), separati da virgole. Ricorda, questo è il valore del colore RGB della tua parte.
+1. All'interno delle parentesi, aggiungi 3 numeri decimali (compresi tra 0 e 1), separati da virgole. Ricorda, questo è il valore del colore RGB della tua parte.  
 ```lua
 -- Cambia il colore di PracticePart
 game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1) 
@@ -116,7 +116,7 @@ game.Workspace.PracticePart.BrickColor = BrickColor.new(0.9,0.8,0.1)
 ![cambia colore gif](cambia-colore.gif)
 
 {{% notice note %}}
-Suggerimenti per la risoluzione dei problemi  
+<strong>Suggerimenti</strong> per la risoluzione dei problemi  
 Problema: la parte è ancora grigia o non cambia colore come previsto  
 * Assicurati di aver seguito tutte e tre le regole per i valori RGB (il numero è 0-1, è un decimale, tutti i numeri separati da virgole).
 * Se stai facendo numeri casuali, potresti ottenere un colore a sorpresa.  
