@@ -75,7 +75,7 @@ Un **genitore** (o parent) è tutto ciò che ha oggetti, come script o parti, al
 
 Con lo script e la parte appena creati, la parte è il genitore e lo script è il figlio. Questa speciale riga di codice dirà allo script di trovare il suo genitore, la parte. Usando questa riga di codice, non devi nemmeno sapere come si chiama la parte.
 
-## Duplica e prova parti
+## Duplica e testa le parti
 
 Ora che la variabile farà riferimento alla parte a cui è collegato lo script, puoi fare tutte le copie che desideri.
 
