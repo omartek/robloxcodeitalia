@@ -178,7 +178,7 @@ end
 {{% notice warning %}}
 Risoluzione dei problemi relativi al codice  
 <strong>Problema :</strong> i colori vengono ignorati  
-* Assicurati di avere una funzione di attesa tra ogni cambio di colore, specialmente nell'ultima riga.
+* Assicurati di avere una funzione di attesa tra ogni cambio di colore, specialmente nell'ultima riga.  
 * Assicurati che il codice che desideri ripetere sia compreso tra while true doe end.  
 <strong>Problema :</strong> la parte è ancora grigia o non cambia colore come previsto  
 * Assicurati che tutti i valori RGB abbiano numeri da 0 a 1, siano decimali e separati da virgole.
