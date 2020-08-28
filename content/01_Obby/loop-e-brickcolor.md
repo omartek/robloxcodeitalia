@@ -48,7 +48,7 @@ Gli sviluppatori Roblox hanno regole quando nominano parti e variabili per aiuta
 Esempi: <em>LoopingPart</em>, <em>EndZone</em>  
 <strong>Variabili:</strong> camelCase (prima lettera minuscola)  
 Esempi: <em>loopingPart</em>,<em>playerHealth</em>
-
+{{% /notice %}}
 
 ## Crea un ciclo while true do
 
@@ -68,7 +68,7 @@ end
 ```
 
 {{% notice tip %}}
-Codice di rientro
+Codice di rientro  
 Potresti aver notato che l'editor aggiunge automaticamente <em>end</em> allo script e rientra a destra la riga di codice successiva. Il rientro rende il codice più facile da leggere.
 {{% /notice %}}
 
@@ -89,8 +89,8 @@ while true do
 end
 ```
 
-{{% notice tip %}}
-Non eseguire ancora lo script  
+{{% notice warning %}}
+<strong>Non eseguire ancora lo script</strong>  
 Se esegui lo script ora, riceverai un errore. Questo perché lo script cambia i colori così velocemente, causando il sovraccarico di Studio. Affronterai questo problema in seguito facendo attendere lo script dopo ogni cambio di colore.
 {{% /notice %}}
 
